@@ -101,7 +101,7 @@
     "p-queue": "6.6.2",
     "pify": "3.0.0",
     "polygon-clipping": "0.15.7",
-    "protobufjs": "6.11.4",
+    "protobufjs": "7.5.5",
     "proxy-agent": "6.5.0",
     "rc-progress": "3.5.1",
     "react": "17.0.2",
