@@ -126,7 +126,7 @@
     "underscore": "1.13.7",
     "use-async-effect": "2.2.7",
     "usehooks-ts": "3.1.0",
-    "uuid": "11.1.0",
+    "uuid": "14.0.0",
     "websocket": "1.0.35"
   },
   "devDependencies": {
